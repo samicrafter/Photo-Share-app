@@ -1,5 +1,6 @@
 {
   "name": "stickersmash",
+  "testFwise": true
   "version": "1.0.0",
   "homepage": "https://github.com/samicrafter/PhotoShare-app",
   "main": "expo/AppEntry.js",
