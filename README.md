@@ -4,12 +4,12 @@ A photo-sharing app built with React Native and Expo, inspired by Pinterest. Use
 
 Features:
 
-• Image Upload: Choose and upload images from your local device.
-• Random Image Generator: Automatically generate random images into your feed.
-• User-Friendly Interface: A sleek and simple layout for easy navigation and photo browsing.
+    • Image Upload: Choose and upload images from your local device.
+    • Random Image Generator: Automatically generate random images into your feed.
+    • User-Friendly Interface: A sleek and simple layout for easy navigation and photo browsing.
 
 Tech Stack
 
-• React Native
-• JavaScript
-• Expo
+    • React Native
+    • JavaScript
+    • Expo
